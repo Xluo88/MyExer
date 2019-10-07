@@ -5,5 +5,6 @@ public class InputStreamExer {
         System.out.println("Hello-world-1000");
         System.out.println("Can I help you?");
 
+        System.out.println("I will give you 1000 dollars to buy iPhone 11, OK?");
     }
 }
